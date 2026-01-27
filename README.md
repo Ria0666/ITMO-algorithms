@@ -7,3 +7,12 @@
 *  5 lab - [bst+avl](https://github.com/Ria0666/ITMO-algorithms/tree/main/bst%2Bavl)
 *  6 lab - [code](https://github.com/Ria0666/ITMO-algorithms/tree/main/code)
 *  7 lab - [dp](https://github.com/Ria0666/ITMO-algorithms/tree/main/dp)
+
+
+# 2 семестр 
+
+* 8 lab - [graphs_base](https://github.com/Ria0666/ITMO-algorithms/tree/main/graphs_base)
+* 9 lab - [graphs_average](https://github.com/Ria0666/ITMO-algorithms/tree/main/graphs_average)
+* 10 lab - [graphs_hard](https://github.com/Ria0666/ITMO-algorithms/tree/main/graphs_hard)
+* 11 lab - [hash](https://github.com/Ria0666/ITMO-algorithms/tree/main/hash)
+* 12 lab - [substrings](https://github.com/Ria0666/ITMO-algorithms/tree/main/substrings)
